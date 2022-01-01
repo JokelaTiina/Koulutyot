@@ -1,3 +1,3 @@
 # Koulutyöt
 
-Tämä repositorio sisältää Data-analyysi- ja tekoälykurssien koulutehtäviä ja harjoitustöitä.
+Tämä repositorio sisältää data-analyysi- ja tekoälykurssien koulutehtäviä ja harjoitustöitä.
